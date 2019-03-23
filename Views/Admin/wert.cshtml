@@ -1,0 +1,15 @@
+﻿
+@model IEnumerable<Eticaret.MvcWebUI.Models.OzellikTip>
+
+
+<div class="form-group has-warning">
+    <label class="col-lg-2 control-label"> Ozeliik Tip</label>
+    <div class="col-lg-10">
+        <select class="form-control m-bot15" name="OzellikId">
+            @foreach (var tip in @ViewBag.TipiNe)
+            {
+                <option value="@tip.OzellikId">@tip.OzellikAdi</option>
+            }
+        </select>
+    </div>
+</div>

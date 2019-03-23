@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewData["Title"] = "Markalar";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model IEnumerable<Eticaret.MvcWebUI.Models.Marka>
+
+<section class="panel">
+
+    <header class="panel-heading">
+       Markalar
+    </header>
+
+    <div class="panel-body">
+        <div class=" editable-table adv-table">
+            <div class="clearfix">
+                <div class="btn-group">
+                    <a href="~/Admin/MarkaEkle" class="btn btn-success">
+                        Yeni Marka Ekle <i class="icon-plus"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="space15"></div>
+        <table class="table table-striped table-hover table-bordered" id="editable-sample">
+
+            <thead>
+                <tr>
+                    
+                    <th>Marka Adı</th>
+                    <th>Marka Logo</th>
+                    <th>Resmi Göster</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var marka in Model)
+                {
+                    <tr class="">
+
+
+                        <td>@Html.DisplayFor(modelItem => marka.MarkaAdi)</td>
+                        <td>@Html.DisplayFor(modelItem => marka.MarkaLogo)</td>
+                       
+                        <td>
+                            <a class="delete" href="#">
+                                <i class="icon-add"></i>
+                            </a>
+                        </td>
+
+
+                        <td>
+                            <a class="edit" href="~/Admin/MarkaDuzenle/@marka.MarkaId">
+                                <i class="icon-pencil"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <a class="delete" href="~/Admin/MarkaSil/@marka.MarkaId">
+                                <i class="icon-trash"></i>
+                            </a>
+                        </td>
+
+                    </tr>
+
+
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+
+
+
+
+</section>
+

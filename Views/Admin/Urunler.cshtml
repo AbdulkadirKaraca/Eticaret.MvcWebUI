@@ -1,0 +1,104 @@
+﻿@model IEnumerable<Eticaret.MvcWebUI.Models.Urunler>
+@{
+    ViewData["Title"] = "Urunler";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<section class="panel">
+
+    <header class="panel-heading">
+        Ürünler
+    </header>
+
+    <div class="panel-body">
+        <div class=" editable-table adv-table">
+            <div class="clearfix">
+                <div class="btn-group">
+                    <a href="~/Admin/UrunEkle" class="btn btn-success">
+                        Yeni Ürün <i class="icon-plus"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="space15"></div>
+        <table class="table table-striped table-hover table-bordered" id="editable-sample">
+
+            <thead>
+                <tr>
+
+                    <th>Marka Adı</th>
+                    <th>Kategori Adı</th>
+                    <th>Ürün Adı</th>
+                    <th>Açıklama</th>
+                    <th>Alış Fiyat</th>
+                    <th>Satış Fiyat</th>
+                    <th>Eklenme  Tarihi</th>
+                    <th>Son Kullanma Tarihi</th>
+                    <th>Stok Durumu</th>
+                    <th>Resim Ekle</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr class="">
+
+                    <td>@Html.DisplayFor(modelItem => item.Marka.MarkaAdi)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Kategori.KategoriTür)</td>
+                    <td>@Html.DisplayFor(modelItem => item.UrunAdi)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Acıklama)</td>
+                    <td> @Html.DisplayFor(modelItem => item.AlisFiyat)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SatisFiyat)</td>
+                    <td>@Html.DisplayFor(modelItem => item.EklenmeTarihi)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SonKullanmaTarihi)</td>
+                    
+                    <td>
+                        <a class="delete" href="~/Admin/UrunResimEkle/@item.UrunId">
+                            <i class="icon-add"></i>
+                        </a>
+                    </td>
+
+
+                    <td>
+                        <a class="edit" href="~/Admin/UrunDuzenle/@item.UrunId">
+                            <i class="icon-pencil"></i>
+                        </a>
+                    </td>
+                    <td>
+                        <a class="delete" href="~/Admin/UrunSil/@item.UrunId">
+                            <i class="icon-trash"></i>
+                        </a>
+                    </td>
+
+                </tr>
+
+
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+

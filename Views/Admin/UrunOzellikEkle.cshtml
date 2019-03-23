@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Ürün Ozellik Ekle ";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+
+
+
+}
+@model IEnumerable<Eticaret.MvcWebUI.Models.Urunler>
+@section head{
+    <script src="~/Admin/js/jquery-1.8.3.min.js"></script>
+
+    <script>
+
+        $(document).ready(function myfunction() {
+            $("#urun").change(function myfunction() {
+
+                var Id = $(this).val();
+                var kId = Id.split('-')[1];
+
+
+               
+           
+
+                $.ajax({
+                    type: 'GET',
+                     url: '@Url.Action("UrunOzelliTipkWidget", "Admin")',
+                    contentType: "html",
+                    data: { katId: kId },
+                    success: function myfunction(veri) {
+                        $("#tip").append(kId);
+                        alert(veri);
+                   
+
+                    },
+                    error: function myfunction(veri) {
+                        alert(veri+"hata");
+                        
+                        
+                    }
+                });
+
+            });
+
+        });
+
+    </script>
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <header class="panel-heading">
+                Ürün Özellik Ekle
+            </header>
+            <div class="panel-body">
+                <form role="form" action="~/Admin/UrunOzellikEkle" method="post" class="form-horizontal tasi-form">
+
+
+
+                    <div class="form-group has-warning">
+                        <label class="col-lg-2 control-label"> Ürün</label>
+                        <div class="col-lg-10">
+                            <select id="urun" class="form-control m-bot15" name="UrunId ">
+                                @foreach (var urun in @ViewBag.Urunler)
+                                {
+
+                                    <option value="@urun.UrunId-@urun.KategoriId ">@urun.UrunAdi-@urun.KategoriId</option>
+
+                                }
+
+                            </select>
+                        </div>
+                    </div>
+                    <div id="tip">
+
+                    </div>
+                    <div id="deger">
+
+                    </div>
+
+                    @await Html.PartialAsync("UrunOzelliTipkWidget")
+                    @await Html.PartialAsync("UrunOzellikDegerWidger")
+
+                    <div class="form-group">
+                        <div class="col-lg-offset-2 col-lg-10">
+                            <button class="btn btn-danger" type="submit">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </div>
+</div>

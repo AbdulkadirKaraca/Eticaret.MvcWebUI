@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewData["Title"] = "Özellik Değerleri";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model IEnumerable<Eticaret.MvcWebUI.Models.OzellikDeger>
+<section class="panel">
+
+    <header class="panel-heading">
+        Özellik Degerleri
+    </header>
+
+    <div class="panel-body">
+        <div class=" editable-table adv-table">
+            <div class="clearfix">
+                <div class="btn-group">
+                    <a href="~/Admin/OzellikDegerEkle" class="btn btn-success">
+                        Yeni Özellik Degeri <i class="icon-plus"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="space15"></div>
+        <table class="table table-striped table-hover table-bordered" id="editable-sample">
+
+            <thead>
+                <tr>
+                    <th>Özellik Değer Adı</th>
+                    <th>Açıklama</th>
+                    <th>Özellik Tipi</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var deger in Model)
+                {
+                    <tr class="">
+
+
+                        <td>@Html.DisplayFor(modelItem => deger.OzellikDegerAdi)</td>
+                        <td>@Html.DisplayFor(modelItem => deger.OzellikDegerAcıklama)</td>
+                        <td>
+                            @if (deger.OzellikTip != null)
+                            {
+
+                                @Html.DisplayFor(modelItem => deger.OzellikTip.OzellikAdi)
+
+                            }
+                        </td>
+
+
+                        <td>
+                            <a class="edit" href="~/Admin/OzellikDegerDuzenle/@deger.OzellikDegerId">
+                                <i class="icon-pencil"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <a class="delete" href="~/Admin/OzellikDegerSil/@deger.OzellikDegerId
+                               ">
+                                <i class="icon-trash"></i>
+                            </a>
+                        </td>
+
+                    </tr>
+
+
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+
+
+
+
+</section>
+

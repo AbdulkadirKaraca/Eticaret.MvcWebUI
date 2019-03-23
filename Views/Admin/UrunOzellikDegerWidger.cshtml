@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Eticaret.MvcWebUI.Models.OzellikDeger>
+
+
+<div class="form-group has-warning">
+    <label class="col-lg-2 control-label"> Ozeliik Deger</label>
+    <div class="col-lg-10">
+        <select class="form-control m-bot15" name="OzellikDegerId">
+            @foreach (var deger in ViewBag.DegerNe)
+            {
+                <option value="@deger.OzellikDegerId">@deger.OzellikDegerAdi</option>
+            }
+        </select>
+    </div>
+</div>

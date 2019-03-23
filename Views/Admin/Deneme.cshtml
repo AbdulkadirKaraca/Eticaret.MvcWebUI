@@ -1,0 +1,72 @@
+﻿ @model IEnumerable<Eticaret.MvcWebUI.Models.Urunler>
+
+@{
+    ViewData["Title"] = "Deneme";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Deneme</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MarkaId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KategoriId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Acıklama)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AlisFiyat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SatisFiyat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EklenmeTarihi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SonKullanmaTarihi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MarkaId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KategoriId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Acıklama)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AlisFiyat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SatisFiyat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EklenmeTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SonKullanmaTarihi)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.UrunId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.UrunId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.UrunId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model IEnumerable<Eticaret.MvcWebUI.Models.OzellikTip>
+<div class="form-group has-warning">
+    <label class="col-lg-2 control-label"> Ozeliik Tip</label>
+    <div class="col-lg-10">
+        <select class="form-control m-bot15" name="OzellikId">
+
+
+            @foreach (var tip in Model)
+            {
+                <option value="@tip.OzellikId">@tip.OzellikAdi</option>
+            }
+        </select>
+    </div>
+</div>

@@ -1,0 +1,94 @@
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.deps.json
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.runtimeconfig.json
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.runtimeconfig.dev.json
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.dll
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.pdb
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.csprojAssemblyReference.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorAssemblyInfo.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorAssemblyInfo.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.AssemblyInfo.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.dll
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.pdb
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.Views.dll
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.csproj.CopyComplete
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.Views.pdb
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.deps.json
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.runtimeconfig.json
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.runtimeconfig.dev.json
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.dll
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.pdb
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.Views.dll
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\bin\Debug\netcoreapp2.1\Eticaret.MvcWebUI.Views.pdb
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.csprojAssemblyReference.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.csproj.CoreCompileInputs.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorAssemblyInfo.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorAssemblyInfo.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.AssemblyInfoInputs.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.AssemblyInfo.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.TagHelpers.input.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.TagHelpers.output.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorCoreGenerate.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Deneme.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\KategoriEkle.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Kategoriler.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MarkaEkle.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MarkaEkle1.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Markalar.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikDegerEkle.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikDegerLeri.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikTipEkle.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikTipEkle1.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikTipLeri.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunEkle.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Urunler.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzellikDegerWidger.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzellikEkle.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzellikleri.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzelliTipkWidget.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\wert.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_deneme.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorTargetAssemblyInfo.cache
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorTargetAssemblyInfo.cs
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.Views.pdb
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.dll
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.pdb
+D:\eticaret\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.csproj.CopyComplete
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.TagHelpers.input.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.TagHelpers.output.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorCoreGenerate.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Deneme.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\KategoriEkle.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Kategoriler.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MarkaEkle.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\MarkaEkle1.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Markalar.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikDegerEkle.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikDegerLeri.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikTipEkle.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikTipEkle1.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\OzellikTipLeri.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunEkle.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Urunler.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzellikDegerWidger.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzellikEkle.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzellikleri.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UrunOzelliTipkWidget.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\wert.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_deneme.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\Eticaret\Eticaret.MvcWebUI\obj\Debug\netcoreapp2.1\Eticaret.MvcWebUI.Views.pdb
